@@ -1,7 +1,7 @@
 {
 	"name": "templateify",
 	"version": "0.0.1",
-	"description": "browserify v2 plugin",
+	"description": "browserify v2 plugin to require template files and use them with template engines",
 	"main": "index.js",
 	"dependencies": {
 		"through": "~2.3.4"
@@ -21,9 +21,12 @@
 		"url": "https://github.com/sigod/node-templateify/issues"
 	},
 	"keywords": [
-		"browserify",
 		"templateify",
-		"template"
+		"browserify",
+		"template",
+		"js",
+		"v2",
+		"plugin"
 	],
 	"author": "sigod",
 	"license": "MIT"
