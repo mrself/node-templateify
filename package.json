@@ -1,0 +1,30 @@
+{
+	"name": "templateify",
+	"version": "0.0.1",
+	"description": "browserify v2 plugin",
+	"main": "index.js",
+	"dependencies": {
+		"through": "~2.3.4"
+	},
+	"devDependencies": {
+		"browserify": "~2.34.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/sigod/node-templateify.git"
+	},
+	"homepage": "https://github.com/sigod/node-templateify",
+	"bugs": {
+		"url": "https://github.com/sigod/node-templateify/issues"
+	},
+	"keywords": [
+		"browserify",
+		"templateify",
+		"template"
+	],
+	"author": "sigod",
+	"license": "MIT"
+}
