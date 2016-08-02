@@ -1,7 +1,7 @@
 var through = require('through');
 
 module.exports = function (file) {
-	if (!/\.[template,njk,mustache,tpl]$/.test(file)) return through();
+	if (!/\.(template|njk|mustache|tpl)$/.test(file)) return through();
 
 	var buffer = '';
 
