@@ -1,6 +1,6 @@
 {
   "name": "templateify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "simple browserify v2 plugin to require template files",
   "main": "index.js",
   "dependencies": {
